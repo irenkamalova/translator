@@ -1,4 +1,4 @@
-package com.kamalova.translator.model.yandex;
+package com.kamalova.translator.yandex;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

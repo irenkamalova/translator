@@ -1,0 +1,13 @@
+target/*
+.env
+.idea/*
+*.iml
+.DS_Store
+.idea/
+src/.DS_Store
+src/main/.DS_Store
+src/main/java/.DS_Store
+src/main/java/com/.DS_Store
+target/
+translator.log
+secrets.properties
